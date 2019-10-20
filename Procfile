@@ -1,0 +1,1 @@
+web: java -jar target/FoodWastage-1.0.jar
